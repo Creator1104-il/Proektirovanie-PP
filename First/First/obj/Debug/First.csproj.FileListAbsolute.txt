@@ -1,0 +1,17 @@
+C:\Users\Илья\Desktop\Ilia\First\First\bin\Debug\First.exe.config
+C:\Users\Илья\Desktop\Ilia\First\First\bin\Debug\First.exe
+C:\Users\Илья\Desktop\Ilia\First\First\bin\Debug\First.pdb
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.Form1.resources
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.Properties.Resources.resources
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.exe
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.pdb
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.exe.config
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.zadanie1.resources
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.zadanie2.resources
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.zadanie3.resources
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.zadanie4.resources
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.zadanie5.resources
+C:\Users\Илья\Desktop\Ilia\First\First\obj\Debug\First.zadanie6.resources
