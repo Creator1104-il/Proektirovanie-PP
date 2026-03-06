@@ -1,0 +1,14 @@
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe.config
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\bin\Debug\Zadanie3.exe
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\bin\Debug\Zadanie3.pdb
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Form1.resources
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.Properties.Resources.resources
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.GenerateResource.cache
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.pdb
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.exe.config
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.zadanie1.resources
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.zadanie2.resources
+C:\Users\Илья\Desktop\Ilia\Zadanie3\Zadanie3\obj\Debug\Zadanie3.zadanie3.resources
