@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\№3\№3\bin\Debug\№3.exe.config
+C:\Users\Admin\source\repos\№3\№3\bin\Debug\№3.exe
+C:\Users\Admin\source\repos\№3\№3\bin\Debug\№3.pdb
+C:\Users\Admin\source\repos\№3\№3\obj\Debug\№3.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\№3\№3\obj\Debug\_3.Form1.resources
+C:\Users\Admin\source\repos\№3\№3\obj\Debug\_3.Properties.Resources.resources
+C:\Users\Admin\source\repos\№3\№3\obj\Debug\№3.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\№3\№3\obj\Debug\№3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\№3\№3\obj\Debug\№3.exe
+C:\Users\Admin\source\repos\№3\№3\obj\Debug\№3.pdb
+C:\Users\Admin\source\repos\№3\№3\obj\Debug\_3.Form2.resources
