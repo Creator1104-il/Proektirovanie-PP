@@ -1,0 +1,7 @@
+C:\Users\Илья\Desktop\Nomer5-master\Nomer5\bin\Debug\Nomer5.exe.config
+C:\Users\Илья\Desktop\Nomer5-master\Nomer5\bin\Debug\Nomer5.exe
+C:\Users\Илья\Desktop\Nomer5-master\Nomer5\bin\Debug\Nomer5.pdb
+C:\Users\Илья\Desktop\Nomer5-master\Nomer5\obj\Debug\Nomer5.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Nomer5-master\Nomer5\obj\Debug\Nomer5.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Nomer5-master\Nomer5\obj\Debug\Nomer5.exe
+C:\Users\Илья\Desktop\Nomer5-master\Nomer5\obj\Debug\Nomer5.pdb
